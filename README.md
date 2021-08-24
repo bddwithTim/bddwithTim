@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bddwithTim
-- 🌱 I was a software test engineer and now venturing into BDD test automation.
+- 🌱 I am a software test engineer and currently venturing into BDD test automation.
 
 
 <!---
