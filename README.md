@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bddwithTim
-- 🌱 I’m currently learning and practising BDD with python
+- 🌱 I was a software test engineer and now venturing into BDD test automation.
 
 
 <!---
