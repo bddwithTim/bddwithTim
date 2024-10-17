@@ -1,6 +1,6 @@
 👋 Hi, I'm @bddwithTim
 
-🌱 I am an experienced Software Development Engineer in Test (SDET) and Software Test Engineer with 12 years of experience in the software industry. I have developed expertise in manual testing for embedded, web, and mobile applications throughout my career. I also have 5 years of experience in software automation testing, primarily focusing on web applications and some experience with embedded systems.
+🌱 I am an experienced Software Development Engineer in Test (SDET) and Software Test Engineer with 14 years of experience in the software industry. I have developed expertise in manual testing for embedded, web, and mobile applications throughout my career. I also have 7 years of experience in software automation testing, primarily focusing on web applications and some experience with embedded systems.
 
 💻 Technical Stack/Skills:
 
